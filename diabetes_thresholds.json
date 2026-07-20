@@ -1,0 +1,1 @@
+{"rf": 0.539, "knn": 0.33, "svm": 0.328, "nb": 0.462, "combination_rule": "majority_vote"}
