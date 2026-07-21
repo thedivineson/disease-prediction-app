@@ -79,3 +79,11 @@ explanation layer that tells the user *why* a prediction was made.
 ---
 
 ## 🚀 Run Locally
+git clone: https://github.com/thedivineson/disease-prediction-app
+cd disease-risk-predictor
+pip install -r requirements.txt
+streamlit run app.py
+
+## 📷 Screenshots
+
+
