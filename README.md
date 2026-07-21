@@ -85,7 +85,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## 📷 Screenshots
-![Disease Selector](screenshots/selector.png)
-![Prediction Result](screenshots/prediction.png)
+![Disease Selector](selector.png)
+![Prediction Result](prediction.png)
 
 
